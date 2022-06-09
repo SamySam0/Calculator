@@ -9,4 +9,4 @@ This is a graphical calculator developed in Python using the Tkinter library.
 - Run the game from the terminal: python3 Calculator.py
 
 ## Recommendations:
-- Some graphical issues may happen on macOS
+- Some graphical issues may occur on macOS
